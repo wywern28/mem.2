@@ -40,6 +40,7 @@ body {
     color: black;
     border: none;
     cursor: pointer;
+    border-radius: 25px;
 }
 
 .main__button:hover {
